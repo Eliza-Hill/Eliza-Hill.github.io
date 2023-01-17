@@ -7,7 +7,7 @@
 
 remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
 
-minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -16,7 +16,7 @@ title_separator          : "-"
 subtitle                 : "Chemical Engineering Student at Vanderbilt"
 name                     : &name "Eliza Hill" # &name is a YAML anchor which can be *referenced later
 description              : &description "Chemical Engineering Student at Vanderbilt "
-url                      : https://davidflorianjr.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://eliza-hill.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -97,13 +97,13 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "assets/img/David_Headshot_web2.jpg"
-  bio              : "An engineer with a passion for teaching "
-  location         : "Nashville, TN"
+  avatar           : "assets/img/Eliza_Hill_Headshot.jpg"
+  bio              : "A chemical engineering student at Vanderbilt University. "
+  location         : "Nashville, TN and Denver, CO"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/DrD-Flo"
+      url: "https://github.com/Eliza-Hill"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/eliza-hill"
