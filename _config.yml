@@ -13,7 +13,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Eliza Hill"
 title_separator          : "-"
-subtitle                 : "Chemical Engineering Student at Vanderbilt"
+subtitle                 : "Aspiring Engineer"
 name                     : &name "Eliza Hill" # &name is a YAML anchor which can be *referenced later
 description              : &description "Chemical Engineering Student at Vanderbilt "
 url                      : https://eliza-hill.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -98,7 +98,7 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "assets/img/Eliza_Hill_Headshot.jpg"
-  bio              : "A chemical engineering student at Vanderbilt University. "
+  bio              : "Chemical engineering student at Vanderbilt University "
   location         : "Nashville, TN and Denver, CO"
   links:
     - label: "GitHub"
