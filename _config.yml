@@ -15,7 +15,7 @@ title                    : "Eliza Hill"
 title_separator          : "-"
 subtitle                 : "Chemical Engineering Student at Vanderbilt"
 name                     : &name "Eliza Hill" # &name is a YAML anchor which can be *referenced later
-description              : &description "Example website for class "
+description              : &description "Chemical Engineering Student at Vanderbilt "
 url                      : https://davidflorianjr.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 
@@ -105,19 +105,16 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/DrD-Flo"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/eliza-hill"
 
 
 # Site Footer
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/DrD-Flo"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/dr.dflo"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/eliza-hill"
 
 
 # Reading Files
