@@ -1,6 +1,6 @@
 ---
 
-title: "About David Florian"
+title: "About Eliza Hill"
 
 ---
 ## Background
@@ -15,7 +15,7 @@ Eliza was born in Madrid, Spain and lived there until she was 10 years old. She 
 
 ## Education
 
-Eliza is currently a sophomore at Vanderbilt University studying chemical engineering with minors in Digital Fabrication, Business, and Chemistry.
+Eliza is currently a sophomore at Vanderbilt University studying Chemical Engineering with minors in Digital Fabrication, Business, and Chemistry.
 
 * University of Virginia
   * BS Mathematics
@@ -33,7 +33,10 @@ David can operate a number of different computer controlled (CNC) fabrication to
 * 3D Inkjet Printing
 * Bioplotting
 
-## Press 
+## 3 Fun Facts 
+
+Eliza is working on her pilot's license, has a twin sister, and has played tennis since she was 3 years old!
+/assets/img/Eliza_Hill_Headshot.jpg
 
 The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](/assets/img/Eliza_Hill_Headshot.jpg).
 
