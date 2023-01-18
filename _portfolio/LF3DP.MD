@@ -6,7 +6,9 @@ header:
   teaser: /assets/img/Syringe Pump.jpg
 gallery:
   - image_path: assets/img/Front Syringe Pump.PNG
+  - 
   - image_path: assets/img/Back Syringe Pump.PNG
+  - 
   - image_path: assets/img/Side Syringe Pump.PNG
    
 ---
