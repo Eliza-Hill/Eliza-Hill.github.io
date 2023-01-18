@@ -1,14 +1,14 @@
 ---
-title: "Example Web Page"
+title: "Welcome"
 layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/img/Home-Banner-Image.jpeg
+  overlay_image: /assets/img/Engineering Background.PNG
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Dr. David Florian is an engineer with a passion for teaching and the open-source community. His area of expertise is 3D printing, with an emphasis on large format pellet extrusion and selective laser sintering."
+excerpt: "Eliza Hill is an enthusiastic, aspiring engineer studying at Vanderbilt University. Whether it's 3D Printing, Aerospace, Product Design and Development, Energy and Sustainability, or Manufacturing, Eliza is very interested in various industries and wants to gain more engineering experience."
 feature_row:
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
     alt: "CNC Mill"
