@@ -37,7 +37,4 @@ David can operate a number of different computer controlled (CNC) fabrication to
 
 Eliza is working on her pilot's license, has a twin sister, and has played tennis since she was 3 years old!
 
-![Image of Eliza's First Solo Flight](/assets/img/Cyber-Scooter-Banner.jpg)
-
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](/assets/img/Eliza_Hill_Headshot.jpg).
-
+![Image of Eliza's First Solo Flight](assets/img/Flying Picture.jpg)
