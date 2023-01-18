@@ -13,7 +13,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-US"
 title                    : "Eliza Hill"
 title_separator          : "-"
-subtitle                 : "Aspiring Engineer"
+subtitle                 : " "
 name                     : &name "Eliza Hill" # &name is a YAML anchor which can be *referenced later
 description              : &description "Chemical Engineering Student at Vanderbilt "
 url                      : https://eliza-hill.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
