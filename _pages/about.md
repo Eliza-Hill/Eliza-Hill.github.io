@@ -5,7 +5,7 @@ title: "About Eliza Hill"
 ---
 ## Background
 
-Eliza was born in Madrid, Spain, and lived there until she was 10 years old. She then moved to Colorado and has been there ever since. She can speak and write fluently in Spanish and loves to visit Spain whenever she can. Having lived in two different countries has given Eliza a unique perspective, and she enjoys learning about other cultures as well.
+Eliza was born in Madrid, Spain, and lived there until she was 10 years old, at which time she moved to Colorado. Eliza can speak and write fluently in Spanish and loves to visit Spain whenever she can. Having lived in two different countries has given Eliza a unique perspective and has really made her appreciate the value of different points of view. 
 
 ## Education
 
