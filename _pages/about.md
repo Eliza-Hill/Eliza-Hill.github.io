@@ -37,4 +37,4 @@ David can operate a number of different computer controlled (CNC) fabrication to
 
 Eliza is working on her pilot's license, has a twin sister, and has played tennis since she was 3 years old!
 
-![Image of Eliza's First Solo Flight](assets/img/Flying Picture.jpg)
+![Image of Eliza's First Solo Flight](/assets/img/Flying Picture.jpg)
