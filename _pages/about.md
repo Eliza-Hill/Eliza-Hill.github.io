@@ -3,10 +3,19 @@
 title: "About David Florian"
 
 ---
+## Background
+
+Eliza was born in Madrid, Spain and lived there until she was 10 years old. She then moved to Colorado and has lived there ever since. She has a twin sister
+
+* University of Virginia
+  * BS Mathematics
+  * BS Biomedical Engineering
+* Vanderbilt University
+  * PhD Biomedical Engineering
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Eliza is currently a sophomore at Vanderbilt University studying chemical engineering with minors in Digital Fabrication, Business, and Chemistry.
 
 * University of Virginia
   * BS Mathematics
