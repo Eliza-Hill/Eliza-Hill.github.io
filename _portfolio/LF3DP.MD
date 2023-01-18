@@ -6,8 +6,8 @@ header:
   teaser: /assets/img/Large-Format-3D-Printer-Thumbnail.png
 gallery:
   - image_path: assets/img/Front Syringe Pump.PNG
-  - image_path: assets/img/Back Syringe Pump.png
-  - image_path: assets/img/Side Syringe Pump.png
+  - image_path: assets/img/Back Syringe Pump.PNG
+  - image_path: assets/img/Side Syringe Pump.PNG
    
 ---
 
