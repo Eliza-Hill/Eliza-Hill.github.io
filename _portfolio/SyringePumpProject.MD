@@ -2,7 +2,7 @@
 title: "Syringe Pump Project"
 excerpt: "Built a functional syringe pump driven by a stepper motor coupled to a lead screw."
 header:
-  image: /assets/img/Front Syringe Pump.jpg
+  image: /assets/img/Front Syringe Pump.PNG
   teaser: /assets/img/Syringe Pump.jpg
 gallery:
   - image_path: assets/img/Front Syringe Pump.PNG
