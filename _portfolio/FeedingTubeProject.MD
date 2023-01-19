@@ -3,7 +3,7 @@ title: "Feeding Tube Project"
 excerpt: "Allowed a young boy with clubbed arms and a feeding tube the ability to feed himself independently for the first time."
 header:
   image: /assets/img/Hugh Picture (2).jpg
-  teaser: /assets/img/Hugh Picture (2).jpg
+  teaser: /assets/img/Hugh Picture (3).jpg
 gallery:
   - url: /assets/img/Feeding Tube Air Pump 1.png
     image_path: assets/img/Feeding Tube Air Pump 1.png
