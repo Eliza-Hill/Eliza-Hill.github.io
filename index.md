@@ -10,7 +10,7 @@ header:
       url: "/portfolio/"
 excerpt: "Eliza Hill is an enthusiastic, aspiring engineer studying at Vanderbilt University. Whether it's 3D Printing, Aerospace, Product Design and Development, Energy and Sustainability, or Manufacturing, Eliza is very interested in various industries and wants to gain more engineering experience."
 feature_row:
-  - image_path: assets/img/VanderbiltImage2.PNG
+  - image_path: assets/img/VanderbiltUniversity2.PNG
     alt: "Student at Vanderbilt University"
     title: "Dedicated Student"
     excerpt: "Eliza is a student at Vanderbilt University majoring in Chemical Engineering with minors in Digital Fabrication, Business, and Chemistry."
