@@ -5,13 +5,13 @@ title: "About Eliza Hill"
 ---
 ## Background
 
-Eliza was born in Madrid, Spain, and lived there until she was 10 years old when she moved to Colorado. Eliza can speak and write fluently in Spanish and loves to visit Spain whenever she can. Having lived in two different countries has given Eliza a unique perspective and has really made her appreciate the value of different points of view. 
+Eliza was born in Madrid, Spain, lived there until she was 10 years old, and then moved to Colorado. Eliza can speak and write fluently in Spanish and loves to visit Spain whenever she can. Having lived in two different countries has given Eliza a unique perspective and has really made her appreciate the value of different points of view. It has also given her a love for travel and a passion for learning about different cultures!
 
 ## Education
 
 Class of 2025 at Vanderbilt University:
 * Major: Chemical Engineering
-* Minors: Digital Fabrication, Business, and Chemistry.
+* Minors: Digital Fabrication, Business, and Chemistry
 
 ## Technical Skills
 
