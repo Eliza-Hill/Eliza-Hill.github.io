@@ -8,7 +8,9 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Eliza Hill is an enthusiastic, aspiring engineer studying at Vanderbilt University. Whether it's 3D Printing, Aerospace, Product Design and Development, Energy and Sustainability, or Manufacturing, Eliza is very interested in various industries and wants to gain more engineering experience."
+excerpt: "Eliza Hill is an enthusiastic, aspiring engineer studying at Vanderbilt University. She is hard-working, eager to learn, and looking to gain more engineering experience. From Aerospace to 3D Printing and more, Eliza is interested in various industries and wants to make a difference. 
+
+very involved in her community and Whether it's 3D Printing, Aerospace, Product Design and Development, Energy and Sustainability, or Manufacturing, Eliza is very interested in various industries and wants to gain more engineering experience."
 feature_row:
   - image_path: assets/img/VanderbiltUniversity2.PNG
     alt: "Student at Vanderbilt University"
