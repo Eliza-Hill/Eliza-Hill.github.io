@@ -11,16 +11,16 @@ header:
 excerpt: "Eliza Hill is an enthusiastic, aspiring engineer studying at Vanderbilt University. Whether it's 3D Printing, Aerospace, Product Design and Development, Energy and Sustainability, or Manufacturing, Eliza is very interested in various industries and wants to gain more engineering experience."
 feature_row:
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
+    alt: "Student"
+    title: "Dedicated Student"
+    excerpt: "Eliza is a student at Vanderbilt University majoring in Chemical Engineering with minors in Digital Fabrication, Business, and Chemistry."
   - image_path: assets/img/Plasma-Cutter-Banner.jpg
     alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
+    title: "Curious Researcher"
+    excerpt: "As an undergraduate researcher in the Digital Fabrication Lab, Eliza has been able to gain valuable experience exploring various facets of 3D Printing."
   - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+    title: "Involved Leader"
+    excerpt: "Eliza is involved with various clubs at Vanderbilt, as she is Co-President of Tikkun Olam Makers (TOM) and the Recruitment Liasion for the Society of Women Engineers (SWE)."
 ---
 
 {% include feature_row %}
