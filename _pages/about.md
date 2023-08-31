@@ -26,8 +26,9 @@ Through her various projects, labs, and classes, Eliza has aquired a number of d
 * Soldering
 * Rapid Prototyping
 * Electrical Wiring
-* Experienced with Arduinos
+* Experience with Arduinos
 * Proficient in Python
+* Proficient in Matlab
 * Proficient in Microsoft Office
 
 ## 3 Fun Facts 
