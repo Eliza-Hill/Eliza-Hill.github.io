@@ -17,6 +17,13 @@ gallery:
 * **CAD Modeling** Four different parts were designed in Fusion 360 to create an effective and stable syringe pump. Then, a complete syringe pump design was modeled to simulate its capabilities and to ensure each part would fit together properly once 3D printed.
 * **Wiring and Programmming** An LED light, button, stepper motor, and power supply were wired to a breadboard with all electrical connections properly soldered and protected. An Arduino was then programmed to rotate the motor, push the syringe plunger forward, and flash a green light when the button was pressed once. If the button was pressed again, the syringe pump pasued, the motor stopped, and a yellow light flashed. Once the syringe pump was completely emptied, a swicth was triggered that stopped the motor and flashed a red light.
 
+# Off-the-Shelf Parts
+| Part | Quantity | Link |
+| 1/4" x 8mm Flexible Coupling | 1 | https://openbuildspartstore.com/1-4-x-8mm-flexible-coupling/ |
+
+
+# 3D Printed Parts
+
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e4396a787ea53f9a532?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
