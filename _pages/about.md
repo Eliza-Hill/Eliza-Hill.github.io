@@ -3,9 +3,9 @@
 title: "About Eliza Hill"
 
 ---
-## Background
+## Overview
 
-Eliza was born in Madrid, Spain, lived there until she was 10 years old, and then moved to Colorado. Eliza can speak and write fluently in Spanish and loves to visit Spain whenever she can. Having lived in two different countries has given Eliza a unique perspective and has really made her appreciate the value of different points of view. It has also given her a love for travel and a passion for learning about different cultures!
+Eliza Hill is an enthusiastic, aspiring engineer studying at Vanderbilt University. She lived in Madrid, Spain for the first 10 years of her life and has been in Colorado since then. She is hard-working, eager to learn, and looking to gain more engineering experience. From Aerospace to 3D Printing and more, Eliza is interested in various industries and wants to make a difference.
 
 ## Education
 
@@ -13,25 +13,35 @@ Class of 2025 at Vanderbilt University:
 * Major: Chemical Engineering
 * Minors: Digital Fabrication, Business, and Chemistry
 
+## Work Experience
+* Tikkun Olam Makers (TOM) Global Fellow
+* Undergraduate Researcher in the Guelcher Laboratory at Vanderbilt University
+* Tennis Instructor and Front Desk Representative at Club Greenwood
+
 ## Technical Skills
 
-Through her various projects, labs, and classes, Eliza has aquired a number of different technical skills, inlcuding:
-
-* 3D Printing with Fused Filament Fabrication (FFF) Printers
 * Designing and Modeling in Fusion 360
-* Project Management
 * Thermal Analysis Using a Differential Scanning Calorimeter (DSC)
 * Laser Cutting
-* Utilizing Filament Extruders and Pelletizers
 * Soldering
 * Rapid Prototyping
 * Electrical Wiring
-* Experience with Arduinos
 * Proficient in Python
-* Proficient in Matlab
+* Proficient in MATLAB
 * Proficient in Microsoft Office
 
-## 3 Fun Facts 
+Digital Fabrication Tools:
+* 3D Printing with Fused Filament Fabrication (FFF) Printers
+
+## Awards
+* Eliza was recently one of four Grand Prize Winners in the 2023 TOM Global Innovation Challenge, which had over 500 participants from 27 different countries. She led her team to create an independent feeding device for a boy with a rare autoimmune disorder and feeding tube, allowing him to go to a summer camp without a registered nurse.
+* Scott Carlton Community Award for exemplifying empathy, compassion & creativity in the 2022 Abraham Accords Open Innovation Challenge
+* National Merit Finalist
+* Hispanic Scholarship Fund Scholar
+* National AP Scholar
+
+
+## Fun Facts 
 
 Eliza is working on her pilot's license, has a twin sister, and has played tennis since she was 3 years old!
 
