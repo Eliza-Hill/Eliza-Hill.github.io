@@ -18,6 +18,7 @@ gallery:
 * **Wiring and Programmming** An LED light, button, stepper motor, and power supply were wired to a breadboard with all electrical connections properly soldered and protected. An Arduino was then programmed to rotate the motor, push the syringe plunger forward, and flash a green light when the button was pressed once. If the button was pressed again, the syringe pump pasued, the motor stopped, and a yellow light flashed. Once the syringe pump was completely emptied, a swicth was triggered that stopped the motor and flashed a red light.
 
 # Off-the-Shelf Parts
+
 |             Part             | Quantity |
 | ---------------------------- | -------- | 
 | 1/4" x 8mm Flexible Coupling |     1    |
