@@ -20,7 +20,7 @@ feature_row:
     excerpt: "As an undergraduate researcher in the Digital Fabrication Lab, Eliza has been able to gain valuable experience exploring various facets of 3D Printing."
   - image_path: assets/img/SWE-TOM2.PNG
     title: "Involved Leader"
-    excerpt: "Eliza is involved with many clubs at Vanderbilt, as she is Co-President of Tikkun Olam Makers (TOM) and the Recruitment Liasion for the Society of Women Engineers (SWE)."
+    excerpt: "Eliza is involved in many organizations at Vanderbilt. She is the President of Tikkun Olam Makers (TOM) and the Co-Vice President of the Society of Women Engineers (SWE)."
 ---
 
 {% include feature_row %}
