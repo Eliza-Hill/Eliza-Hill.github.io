@@ -19,9 +19,11 @@ gallery:
 
 # Off-the-Shelf Parts
 
-|             Part             | Quantity |
-| ---------------------------- | -------- | 
-| 1/4" x 8mm Flexible Coupling |     1    |
+|             Part              | Quantity |
+| ----------------------------  | -------- | 
+| 1/4" x 8mm Flexible Coupling  |     1    |
+| 200 mm lead screw with 2 mm pitch and 2 mm lead | 1 |
+
 
 
 # 3D Printed Parts
