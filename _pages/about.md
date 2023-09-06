@@ -5,7 +5,7 @@ title: "About Eliza Hill"
 ---
 ## Overview
 
-Eliza Hill was born in Madrid, Spain, and lived there for the first 10 years of her life. She then moved to Colorado and has been there ever since. She wants to make a difference with engineering and is interested in many different industries, from aerospace to additive manufacturing to sustainability and more.
+Eliza Hill was born in Madrid, Spain, and lived there for the first 10 years of her life. She then moved to Colorado and has been there ever since. Eliza wants to make a difference with engineering and is interested in many different industries, from aerospace to additive manufacturing to sustainability and more.
 
 ## Education
 
