@@ -5,7 +5,7 @@ title: "About Eliza Hill"
 ---
 ## Overview
 
-Eliza Hill is an enthusiastic, aspiring engineer studying at Vanderbilt University. She lived in Madrid, Spain for the first 10 years of her life and has been in Colorado since then. She is hard-working, eager to learn, and looking to gain more engineering experience. From Aerospace to 3D Printing and more, Eliza is interested in various industries and wants to make a difference.
+Eliza Hill was born in Madrid, Spain, and lived there for the first 10 years of her life. She then moved to Colorado and has been there ever since. She wants to make a difference with engineering and is interested in many different industries, from aerospace to additive manufacturing to sustainability and more.
 
 ## Education
 
@@ -39,10 +39,3 @@ Digital Fabrication Tools:
 * National Merit Finalist
 * Hispanic Scholarship Fund Scholar
 * National AP Scholar
-
-
-## Fun Facts 
-
-Eliza is working on her pilot's license, has a twin sister, and has played tennis since she was 3 years old!
-
-![Eliza's First Solo Flight](/assets/img/Flying Picture.jpg)
