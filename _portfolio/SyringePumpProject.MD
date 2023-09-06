@@ -16,7 +16,7 @@ gallery:
 * **Interchangeable Syringe Sizes** This syringe pump accommodates two different syringe sizes, a 5 mL syringe and a 20 mL syringe. There is a small piece that can easily be attached when using the smaller syringe.
 * **CAD Modeling** Six different parts were designed in Fusion 360 to create an effective and stable syringe pump. Then, a complete syringe pump design was modeled to simulate its capabilities and to ensure each part would fit together properly once 3D printed.
 * **Wiring** An LED light, button, stepper motor, and power supply were wired to a breadboard with all electrical connections properly soldered and protected. 
-* **Arduino Programming** An Arduino was then programmed to rotate the motor, push the syringe plunger forward, and flash a green, yellow, or red light depending on the status of the pump. [Arduino Code](Arduino Code.pdf)
+* **Arduino Programming** An Arduino was then programmed to rotate the motor, push the syringe plunger forward, and flash a green, yellow, or red light depending on the status of the pump. [Arduino Code](https://github.com/Eliza-Hill/Eliza-Hill.github.io/blob/41b0f0f4a34a89b8043449caf0850fbd40439c09/Arduino%20Code.pdf)
 
 # Operating the Syringe Pump
 
