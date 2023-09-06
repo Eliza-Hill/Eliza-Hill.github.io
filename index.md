@@ -14,11 +14,11 @@ feature_row:
     alt: "Student at Vanderbilt University"
     title: "Dedicated Student"
     excerpt: "Eliza is a student at Vanderbilt University majoring in Chemical Engineering with minors in Digital Fabrication, Business, and Chemistry."
-  - image_path: /assets/img/Solo Flight Picture.jpg
+  - image_path: assets/img/Solo Flight Picture.jpg
     alt: "Eliza's First Solo Flight"
     title: "Student Pilot"
     excerpt: "Eliza is very interested in aviation and aerospace, and she is currently working on her Private Pilot License! She has about 40 hours of flight time, including solo, cross-country, and simulated instruments."
-  - image_path: assets/img/SWE-TOM2.PNG
+  - image_path: assets/img/SWE-TOM2.png
     title: "Involved Leader"
     excerpt: "Eliza is involved in many organizations at Vanderbilt. She is the President of Tikkun Olam Makers (TOM) and the Co-Vice President of the Society of Women Engineers (SWE)."
 ---
