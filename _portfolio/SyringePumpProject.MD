@@ -19,14 +19,27 @@ gallery:
 
 # Off-the-Shelf Parts
 
-|             Part              | Quantity |
-| ----------------------------  | -------- | 
-| 1/4" x 8mm Flexible Coupling  |     1    |
-| 200 mm lead screw with 2 mm pitch and 2 mm lead | 1 |
-
-
+| Part | Quantity | Specifications |
+| ---- | -------- | -------------- |
+| Flexible Coupling | 1 | 1/4" x 8mm |
+| Lead Screw | 1 | 250 mm length x 2 mm pitch x 2 mm lead
+| Linear Rod | 2 | 200 mm length x 8 mm diameter |
+| LM8UU Linear Bearing | 2 | for 8 mm diameter rod |
+| 2040 Aluminum Extrusion | 1 | 1 ft |
+| Stepper Motor | 1 | Nema 17 |
+| Power Supply | 1 | Quad Output 5V 12V 24V 12V 4 Amps |
+| Arduino Uno | 1 | None |
+| Stepper Motor Driver | 1 | 5V |
+| Small Breadboard | 1 | None |
+| Panel Mount Latching Push Buttons | 1 | 0.5 Amps |
+| Limit Switch | 1 | 5 Amps |
+| RGB Common Cathode LED | 1 | 10 mm |
 
 # 3D Printed Parts
+| Part | Quantity | Specifications |
+| ---- | -------- | -------------- |
+
+
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e4396a787ea53f9a532?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
