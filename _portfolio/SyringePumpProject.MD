@@ -36,10 +36,20 @@ gallery:
 | RGB Common Cathode LED | 1 | 10 mm |
 
 # 3D Printed Parts
-| Part | Quantity | Specifications |
-| ---- | -------- | -------------- |
 
-
+| Part | Link | Specifications |
+| ---- | ---- | -------------- |
+| Interchangeable Front Barrel Stabilizer | [Part 1](https://a360.co/3R3PZmG) |
+| Plunger Holder | [Part 2](https://a360.co/3Evrrvn) |
+| Motor Mount | [Part 3](https://a360.co/3LdhPcf) |
+|  | [Part 4]() |
+|  | [Part 5]() |
+|  | [Part 6]() |
+|  | [Part 7]() |
+|  | [Part 8]() |
+|  | [Part 9]() |
+|  | [Part 10]() |
+|  | [Part 11]() |
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e4396a787ea53f9a532?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
