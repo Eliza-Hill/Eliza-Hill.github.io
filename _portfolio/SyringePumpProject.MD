@@ -42,14 +42,9 @@ gallery:
 | Interchangeable Front Barrel Stabilizer | [Part 1](https://a360.co/3R3PZmG) |
 | Plunger Holder | [Part 2](https://a360.co/3Evrrvn) |
 | Motor Mount | [Part 3](https://a360.co/3LdhPcf) |
-|  | [Part 4]() |
-|  | [Part 5]() |
-|  | [Part 6]() |
-|  | [Part 7]() |
-|  | [Part 8]() |
-|  | [Part 9]() |
-|  | [Part 10]() |
-|  | [Part 11]() |
+| Enclosure | [Part 4](https://a360.co/3LdHh1s) |
+| Top of Enclosure | [Part 5](https://a360.co/4816DJH) |
+| Back Barrel Stabilizer | [Part 6](https://a360.co/480DwpU) |
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e4396a787ea53f9a532?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
