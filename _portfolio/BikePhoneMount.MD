@@ -5,9 +5,9 @@ header:
   image: assets/img/Bike Phone Mount in Use Picture.jpg
   teaser: assets/img/CAD Mount.png
 gallery:
-  - image_path: assets/img/Front Syringe Pump.PNG
-  - image_path: assets/img/Back Syringe Pump.PNG
-  - image_path: assets/img/Side Syringe Pump.PNG
+  - image_path: assets/img/Disassembled Parts.jpg
+  - image_path: assets/img/Assembled Horizontal.jpg
+  - image_path: assets/img/Assembled Vertical.jpg
    
 ---
 
@@ -60,4 +60,4 @@ Connect the Rotating Ball to the Phone Holder by placing an M3 screw through the
 
 
 # Gallery
-{% include gallery caption="Side by side images of the real life syringe pump with the 3D rendering." %}
+{% include gallery caption="Images of the printed model. The first pictures includes all of the separate parts, the second picture illustrates the phone in a horizontal orientation, and the third picture shows the phone in a vertical orientation." %}
