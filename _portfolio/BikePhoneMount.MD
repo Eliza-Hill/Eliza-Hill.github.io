@@ -15,7 +15,7 @@ gallery:
 
 Connect the Rotating Ball to the Phone Holder by placing an M3 screw through the four aligned holes and securing it with an M3 hex nut. Place four M3 heat set inserts in the Top Handle Clamp holes. Use four M3 screws and an allen key to connect the Top Handle Clamp to the Bottom Handle Clamp while securely gripping the handlebars. Place the Rotating Ball component into the Top Handle Clamp. Lock the Rotating Ball into the horizontal or vertical orientation.
 
-# Material Choice
+# Material Choices
 
 * **Phone Holder:** TPU 95A. TPU is very durable and has high UV resistance, making it an optimal choice for a bike mount. Furthermore, a flexible material was required to fit the phone properly while still allowing the phone to slide in and out of the case.
 * **Rotating Ball:** TPU 95A. This flexible material allowed the extruded edge of the ball to fit tightly in the tapered part of the Top Handle Clamp. In addition, this meant that the horizontal and vertical orientations could be securely locked into position.
