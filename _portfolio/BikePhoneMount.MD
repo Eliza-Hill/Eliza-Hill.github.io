@@ -2,8 +2,8 @@
 title: "Bike Phone Mount"
 excerpt: "Designed and 3D printed an adjustable phone holder for a bike."
 header:
-  image: assets/img/Mount in Use 2.jpg
-  teaser: assets/img/Bike Phone Mount in Use Picture.jpg
+  image: assets/img/Bike Phone Mount in Use Picture.jpg
+  teaser: assets/img/Mount in Use 2.jpg
 gallery:
   - image_path: assets/img/Disassembled Parts.jpg
   - image_path: assets/img/Assembled Horizontal.jpg
