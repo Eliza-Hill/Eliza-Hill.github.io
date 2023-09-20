@@ -3,11 +3,12 @@ title: "Bike Phone Mount"
 excerpt: "Designed and 3D printed an adjustable phone holder for a bike."
 header:
   image: assets/img/Bike Phone Mount in Use Picture.jpg
-  teaser: assets/img/CAD Mount.png
+  teaser: assets/img/Mount in Use 2.jpg
 gallery:
   - image_path: assets/img/Disassembled Parts.jpg
   - image_path: assets/img/Assembled Horizontal.jpg
   - image_path: assets/img/Assembled Vertical.jpg
+  - image_path: assets/img/CAD Mount.png
    
 ---
 
@@ -60,4 +61,4 @@ Connect the Rotating Ball to the Phone Holder by placing an M3 screw through the
 
 
 # Gallery
-{% include gallery caption="Images of the printed model. The first pictures includes all of the separate parts, the second picture illustrates the phone in a horizontal orientation, and the third picture shows the phone in a vertical orientation." %}
+{% include gallery caption="The first picture includes the separate parts, the second picture illustrates the phone in a horizontal orientation, and the third picture shows the phone in a vertical orientation. The fourth picture demonstrates the CAD model." %}
