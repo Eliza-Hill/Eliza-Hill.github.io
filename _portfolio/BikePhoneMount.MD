@@ -44,6 +44,5 @@ Connect the Rotating Ball to the Phone Holder by placing an M3 screw through the
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e4170c9d49adfce7c?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-
 # Gallery
 {% include gallery caption="Images of the printed model. The first picture includes the separate parts, the second picture illustrates the phone in a horizontal orientation, and the third picture shows the phone in a vertical orientation." %}
