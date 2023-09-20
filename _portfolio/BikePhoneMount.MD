@@ -13,7 +13,7 @@ gallery:
 
 # Material Choice
 
-* **Phone Holder:** TPU 95A. TPU is very durable and has high UV resistance, making it an optimal choice for a bike mount. Furthermore, a flexible material was required to fit the phone properly while still allow the phone to slide in and out of the case.
+* **Phone Holder:** TPU 95A. TPU is very durable and has high UV resistance, making it an optimal choice for a bike mount. Furthermore, a flexible material was required to fit the phone properly while still allowing the phone to slide in and out of the case.
 * **Rotating Ball:** TPU 95A. This flexible material allowed the extruded edge of the ball to fit tightly in the tapered part of the Top Handle Clamp. In addition, this meant that the horizontal and vertical orientations could be securely locked into position.
 * **Top Handle Clamp:** ABS. A more rigid material was needed for this part to ensure that the rotating ball would stay secured, so ABS was selected. ABS also has high impact resistance, durability, and toughness, which makes it a solid choice in case the bike falls. Finally, it is more UV resistant than PLA, and was a better choice than PLA for the heat set inserts.
 * **Bottom Handle Clamp:** PLA. Although ABS might have better material properties, there was quite a bit of warping when printing this part with ABS. Furthermore, this part did not require heat set inserts, so PLA, especially since it is cheaper, was an adequate material. 
