@@ -32,28 +32,14 @@ Connect the Rotating Ball to the Phone Holder by placing an M3 screw through the
 * Heat set inserts were inserted into the Top Handle Clamp so that screws could go through the Bottom Handle Clamp and tighten onto the Top Handle Clamp while gripping the handlebars. This allowed for a stable grip that did not damage the bike in any way.
 * Four places for screws were added. These four contact points ensured that the handle clamp would solidly grip the handlebars and maintain its position.
 
-# Off-the-Shelf Parts
-
-| Part | Quantity |
-| ---- | -------- |
-| 3D Printed Phone Holder | 1 |
-| 3D Printed Rotating Ball | 1 |
-| 3D Printed Top Handle Clamp | 1 |
-| 3D Printed Bottom Handle Clamp | 1 |
-| M3 Heat Set Inserts | 4 | 
-| M3 Screws | 4 |
-| M3 Hex Nut | 1 |
-
 # 3D Printed Parts
 
 | Part | Link |
 | ---- | ---- |
-| Interchangeable Front Barrel Stabilizer | [Part 1](https://a360.co/3R3PZmG) |
-| Plunger Holder | [Part 2](https://a360.co/3Evrrvn) |
-| Motor Mount | [Part 3](https://a360.co/3LdhPcf) |
-| Enclosure | [Part 4](https://a360.co/3LdHh1s) |
-| Top of Enclosure | [Part 5](https://a360.co/4816DJH) |
-| Back Barrel Stabilizer | [Part 6](https://a360.co/480DwpU) |
+| Bottom Handle Clamp | [Part 1](https://a360.co/3Zwqa0H) |
+| Top Handle Clamp | [Part 2](https://a360.co/3rtEp9T) |
+| Rotating Ball | [Part 3](https://a360.co/3Po1T8j) |
+| Phone Holder | [Part 4](https://a360.co/450w2Ay) |
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e4170c9d49adfce7c?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
