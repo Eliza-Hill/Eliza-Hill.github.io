@@ -61,7 +61,7 @@ Connect the Rotating Ball to the Phone Holder by placing an M3 screw through the
 | Back Barrel Stabilizer | [Part 6](https://a360.co/480DwpU) |
 
 # CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e4396a787ea53f9a532?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e4170c9d49adfce7c?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
 # Gallery
