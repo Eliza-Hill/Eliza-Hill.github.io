@@ -12,7 +12,7 @@ gallery:
    
 ---
 # Description of Project
-In this project, I was able to create needle nose pliers that are able to grip and move through-hole resistors. By using a flexible component in the center that connected to four rigid parts, the pliers could pick up different items when force is applied and then return to their starting position when force is not applied. 
+In this project, I created needle nose pliers that are able to grip and move through-hole resistors. By using a flexible component in the center that connects to four rigid parts, the pliers can pick up different items when force is applied to the handles and then return to their starting position when released. 
 
 ![Pliers GIF](/assets/img/Pliers GIF.gif)
 
