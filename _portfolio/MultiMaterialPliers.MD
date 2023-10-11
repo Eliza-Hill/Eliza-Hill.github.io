@@ -3,7 +3,7 @@ title: "Mutli-Material Pliers"
 excerpt: "Created flexible pliers made from a combination of PLA and TPU parts."
 header:
   image: assets/img/Standing Pliers.jpg
-  teaser: assets/img/PliersFlat.jpg
+  teaser: assets/img/Pliers Flat.jpg
 gallery:
   - image_path: assets/img/Exploded Pliers.jpg
   - image_path: assets/img/Iteration.jpg
@@ -18,6 +18,7 @@ In this project, I created needle nose pliers that are able to grip and move thr
 # Print-In-Place Parts
 **Overview**
 With print-in-place, the different parts of a product are modeled so that they are ready for use once the print is finished. The biggest benefit to this technique is that production can happen much quicker. Final products can be delivered directly from the 3D printers without any additional processing or assembly time. 
+
 Not only can print-in-place be used to design products with a single material, but it can also be used for multi-material projects. However, when making multi-material parts, the right combination of materials must be utilized. If the product requires multi-material bonding, the following factors must be taken into account: surface energy, chemical composition, shrinkage and cooling rates, and mechanical compatibility. For print-in-place, the combination of materials that work the best are those that have similar properties. If the properties stated above are similar enough, then there will be adequate bonding between and within the different materials.
 
 **Applications**
