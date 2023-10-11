@@ -11,9 +11,9 @@ gallery:
   - image_path: assets/img/Pliers GIF.gif
    
 ---
-# Top-Down Modeling
-
-Top-down modeling is a method of designing in CAD where the components are all assembled in the same file. Instead of bringing separate components together into an assembly, a top-down approach begins with the larger assembly and then works through specific parts. In this project, all of the components except for one were modeled using top-down techniques. The Phone Holder was the only part that was not modeled this way because a previous phone case design was utilized and modified. For the other pieces, top-down modeling was leveraged to build new components off of existing components. This allowed for easier dimensioning and modifications of the different parts, ensuring that the components would work well together in the overall design.
+# Description of Project
+In this project, I was able to create needle nose pliers that are able to grip and move through-hole resistors. By using a flexible component in the center that connected to four rigid parts, the pliers could pick up different items when force is applied and then return to their starting position when force is not applied. 
+image_path: assets/img/Pliers GIF.gif
 
 # Rationale Behind the Design
 
