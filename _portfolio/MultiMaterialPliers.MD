@@ -42,9 +42,10 @@ Not only can print-in-place be used to design products with a single material, b
 
 | Part | Quantity | Link |
 | ---- | -------- | ---- |
-| Handle | 2 | [Part 1](https://a360.co/3Zwqa0H) |
-| Top Clamp | 1 | [Part 2](https://a360.co/3rtEp9T) |
-| Bottom Clamp | 1 | [Part 3](https://a360.co/3Po1T8j) |
+| Handle | 2 | [CAD Model 1](https://a360.co/3Zwqa0H) |
+| Top Clamp | 1 | [CAD Model 2](https://a360.co/3rtEp9T) |
+| Bottom Clamp | 1 | [CAD Model 3](https://a360.co/3Po1T8j) |
+| Flexible Piece | 1 | [CAD Model 4](https://a360.co/3Po1T8j) |
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e4170c9d49adfce7c?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
