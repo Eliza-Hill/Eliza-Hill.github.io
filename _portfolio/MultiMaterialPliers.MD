@@ -8,6 +8,7 @@ gallery:
   - image_path: assets/img/Disassembled Parts.jpg
   - image_path: assets/img/Assembled Horizontal.jpg
   - image_path: assets/img/Assembled Vertical.jpg
+  - image_path: assets/img/Pliers GIF.gif
    
 ---
 # Top-Down Modeling
