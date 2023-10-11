@@ -16,19 +16,14 @@ In this project, I created needle nose pliers that are able to grip and move thr
 
 ![Pliers GIF](/assets/img/Pliers GIF.gif)
 
-# Rationale Behind the Design
+# Print-In-Place Parts
+**Overview**
+With print-in-place, the different parts of a product are modeled so that they are ready for use once the print is finished. The biggest benefit to this technique is that production can happen much quicker. Final products can be delivered directly from the 3D printers without any additional processing or assembly time. 
+Not only can print-in-place be used to design products with a single material, but it can also be used for multi-material projects. However, when making multi-material parts, the right combination of materials must be utilized. If the product requires multi-material bonding, the following factors must be taken into account: surface energy, chemical composition, shrinkage and cooling rates, and mechanical compatibility. For print-in-place, the combination of materials that work the best are those that have similar properties. If the properties stated above are similar enough, then there will be adequate bonding between and within the different materials.
 
-* The Phone Holder component was mainly made as a phone case so that the phone would be thoroughly secured. This ensured that there would be no problems with the phone falling out of the holder as well as maintained access to all of the phone’s functions. This design also allowed the phone to be placed quickly into the mount without any additional tools.
-* An additional part was added to the phone case to allow for an easy connection with the Rotating Ball component.
-* The Rotating Ball was made to allow for effective switching between vertical and horizontal orientations.
-* A tapered extrusion was created in the Top Handle Clamp so that the Rotating Ball would fit tightly and lock into position.
-* The tapered edge was designed on the same side as the handlebar extrusion so that the device could be mounted onto the middle section of the handlebars. This allows the mount to be attached at a more stable section and the phone to be centered with respect to the whole bike.
-* Heat set inserts were inserted into the Top Handle Clamp so that screws could go through the Bottom Handle Clamp and tighten onto the Top Handle Clamp while gripping the handlebars. This allowed for a stable grip that did not damage the bike in any way.
-* Four places for screws were added. These four contact points ensured that the handle clamp would solidly grip the handlebars and maintain its position.
+**Applications**
 
-# Assembly Instructions
-
-Connect the Rotating Ball to the Phone Holder by placing an M3 screw through the four aligned holes and securing it with an M3 hex nut. Place four M3 heat set inserts in the Top Handle Clamp holes. Use four M3 screws and an allen key to connect the Top Handle Clamp to the Bottom Handle Clamp while securely gripping the handlebars. Place the Rotating Ball component into the Top Handle Clamp. Lock the Rotating Ball into the horizontal or vertical orientation.
+# About the Design
 
 # Material Choices
 
@@ -37,14 +32,19 @@ Connect the Rotating Ball to the Phone Holder by placing an M3 screw through the
 * **Top Handle Clamp:** ABS. A more rigid material was needed for this part to ensure that the rotating ball would stay secured, so ABS was selected. ABS also has high impact resistance, durability, and toughness, which makes it a solid choice in case the bike falls. Finally, it is more UV resistant than PLA, and was a better choice than PLA for the heat set inserts.
 * **Bottom Handle Clamp:** PLA. Although ABS might have better material properties, there was quite a bit of warping when printing this part with ABS. Furthermore, this part did not require heat set inserts, so PLA, especially since it is cheaper, was an adequate material. 
 
+# Plier Specifications:
+* Jaw Length: 31.5 mm
+* Jaw Capacity: 20 mm
+
+# Print settings:
+
 # 3D Printed Parts
 
-| Part | Link |
-| ---- | ---- |
-| Bottom Handle Clamp | [Part 1](https://a360.co/3Zwqa0H) |
-| Top Handle Clamp | [Part 2](https://a360.co/3rtEp9T) |
-| Rotating Ball | [Part 3](https://a360.co/3Po1T8j) |
-| Phone Holder | [Part 4](https://a360.co/450w2Ay) |
+| Part | Quantity | Link |
+| ---- | -------- | ---- |
+| Handle | 2 | [Part 1](https://a360.co/3Zwqa0H) |
+| Top Clamp | 1 | [Part 2](https://a360.co/3rtEp9T) |
+| Bottom Clamp | 1 | [Part 3](https://a360.co/3Po1T8j) |
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e4170c9d49adfce7c?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
