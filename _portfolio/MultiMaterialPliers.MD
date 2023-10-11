@@ -2,13 +2,12 @@
 title: "Mutli-Material Pliers"
 excerpt: "Created flexible pliers made from a combination of PLA and TPU parts."
 header:
-  image: assets/img/Bike Phone Mount in Use Picture.jpg
-  teaser: assets/img/Mount in Use 2.jpg
+  image: assets/img/Standing Pliers.jpg
+  teaser: assets/img/PliersFlat.jpg
 gallery:
-  - image_path: assets/img/Disassembled Parts.jpg
-  - image_path: assets/img/Assembled Horizontal.jpg
+  - image_path: assets/img/Exploded Pliers.jpg
+  - image_path: assets/img/Iteration.jpg
   - image_path: assets/img/Assembled Vertical.jpg
-  - image_path: assets/img/Pliers GIF.gif
    
 ---
 # Description of Project
