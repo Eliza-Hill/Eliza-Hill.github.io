@@ -38,11 +38,13 @@ While multi-material parts can be very useful for print-in-place parts, the righ
 # About the Design
 
 **Materials** 
+
 The two materials used in this design were 95A TPU and PLA. The flexible piece was printed with TPU so that it would bend when needed. The other components were printed with PLA because the rigidity gave the handle and pliers the necessary strength to bend the flexible piece.
 
 
 
 **Rationale**
+
 Since the materials that were used, PLA and TPU, have very different material properties, bonding between the two materials would most likely not occur. Therefore, the pieces of the pliers were designed to fit together like a puzzle. The first iteration of the flexible piece, pictured below, was created as a repeating square geometry with 3 protruding circles on each side to connect to the other pieces. After printing this piece, it was evident that the layers between the repeating squares were too thick, which meant that the piece was much more rigid than desired. Thus, after reprinting the piece, a thickness of 1 mm was found to have an adequate amount of flexibility. 
 
 ![Image of First Iteration of the Flexible Piece](/assets/img/Flexible Iteration.jpg)
@@ -69,4 +71,4 @@ While the print-in-place technique can be utilized for this design, these pliers
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e0e4b09e1ea3c9f7b?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Gallery
-{% include gallery caption="Images of the printed model. The first picture includes all of the separate pieces of the final model. The second picture demonstrates the first iteration of the pliers." %}
+{% include gallery caption="The first image includes all of the separate pieces of the final model. The second picture demonstrates the first iteration of the pliers." %}
