@@ -1,6 +1,6 @@
 ---
 title: "Mutli-Material Pliers"
-excerpt: "Designed and 3D printed flexible pliers made from PLA and TPU."
+excerpt: "Created flexible pliers made from a combination of PLA and TPU parts."
 header:
   image: assets/img/Bike Phone Mount in Use Picture.jpg
   teaser: assets/img/Mount in Use 2.jpg
