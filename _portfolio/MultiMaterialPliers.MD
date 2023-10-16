@@ -68,7 +68,7 @@ While the print-in-place technique can be utilized for this design, these pliers
 | Flexible Piece | 1 | [CAD Model 4](https://a360.co/3Po1T8j) |
 
 # CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e0e4b09e1ea3c9f7b?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e6f337fa1650553d6?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Gallery
 {% include gallery caption="The first image includes all of the separate pieces of the final model. The second picture demonstrates the first iteration of the pliers." %}
