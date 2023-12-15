@@ -4,9 +4,6 @@ excerpt: "Created a microfluidic mixing device that leverages vat photopolymeriz
 header:
   image: assets/img/Front Picture.png
   teaser: assets/img/Front Picture.png
-gallery:
-  - image_path: assets/img/Mold Pic.jpg
-  - image_path: assets/img/Casted Device Pic.jpg
    
 ---
 # Overview
@@ -44,6 +41,3 @@ In order to go from the 3D printed mold to the final device, the microfluidic mo
 
 # CAD Model of the Microfluidic Mold
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e69c0c8c71e462fa7?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
-# Gallery
-{% include gallery caption="The first image shows the mold that was printed in the Form 3 SLA Printer. The second picture demonstrates the final microfluidic device." %}
