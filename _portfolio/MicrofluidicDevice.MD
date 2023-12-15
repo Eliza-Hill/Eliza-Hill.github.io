@@ -11,9 +11,11 @@ gallery:
 ---
 # Overview
 
-The purpose of this project was to create a microfluidic device that is able to thoroughly mix multiple samples. By creating various configurations for the channels, turbulent flow is created, which leads to efficient mixing. My device was designed to be applied in covid testing. The patient sample is placed in one inlet post while the testing reagent is placed in the other inlet. The channels are wide enough to support both inlets, but the mixing is thorough enough to make sure that all of the patient’s sample has been mixed with the testing reagent. This means that this device is able to accurately test patients for covid with the outlet mixture that is provided.
+The purpose of this project was to create a microfluidic device that is able to thoroughly mix multiple samples. By creating various configurations for the channels, turbulent flow is created, which leads to efficient mixing. A video of the microfluidic device working with two different colored dyes as the inputs is available [here](https://youtu.be/vSiLZpvUaGQ). As you can see in the video as well as in the picture below, the flow goes from being laminar, where there are distinct layers of pink and blue, to turbulent, where the dyes have mixed and become purple. 
 
-![Pliers GIF](/assets/img/Pliers GIF.gif)
+![Picture of the Microfluidic Device During Testing](/assets/img/Flow Picture.png)
+
+My device was designed to be applied in covid testing. The patient sample is placed in one inlet post while the testing reagent is placed in the other inlet. The channels are wide enough to support both inlets, but the mixing is thorough enough to make sure that all of the patient’s sample has been mixed with the testing reagent. This means that this device is able to accurately test patients for covid with the outlet mixture that is provided.
 
 # About the Design 
 
