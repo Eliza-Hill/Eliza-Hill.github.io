@@ -2,11 +2,11 @@
 title: "Microfluidic Device"
 excerpt: "Created a microfluidic mixing device that leverages vat photopolymerization printing."
 header:
-  image: assets/img/Standing Pliers.jpg
-  teaser: assets/img/Pliers Flat.jpg
+  image: assets/img/Front Picture.png
+  teaser: assets/img/Front Picture.png
 gallery:
-  - image_path: assets/img/Exploded Pliers.jpg
-  - image_path: assets/img/Iteration.jpg
+  - image_path: assets/img/Mold Pic.jpg
+  - image_path: assets/img/Casted Device Pic.jpg
    
 ---
 # Overview
@@ -40,7 +40,5 @@ In order to go from the 3D printed mold to the final device, the microfluidic mo
 # CAD Model of the Microfluidic Mold
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e69c0c8c71e462fa7?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-![Image of First Iteration of the Flexible Piece](/assets/img/Flexible Iteration.jpg)
-
 # Gallery
-{% include gallery caption="The first image includes all of the separate pieces of the final model. The second picture demonstrates the first iteration of the pliers." %}
+{% include gallery caption="The first image shows the mold that was printed in the Form 3 SLA Printer. The second picture demonstrates the final microfluidic device." %}
