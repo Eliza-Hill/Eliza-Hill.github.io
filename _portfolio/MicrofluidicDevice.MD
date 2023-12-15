@@ -11,7 +11,7 @@ gallery:
 ---
 # Overview
 
-The purpose of this project was to create a microfluidic device that is able to thoroughly mix multiple samples. By creating various configurations for the channels, turbulent flow is created, which leads to efficient mixing. A video of the microfluidic device working with two different colored dyes as the inputs is available [here](https://youtu.be/vSiLZpvUaGQ). As you can see in the video as well as in the picture below, the flow goes from being laminar, where there are distinct layers of pink and blue, to turbulent, where the dyes have mixed and become purple. 
+The purpose of this project was to create a microfluidic device that is able to thoroughly mix multiple samples. By creating various configurations for the channels, turbulent flow is created, which leads to efficient mixing. A video of the microfluidic device working with two different colored dyes as the inputs is available [here](https://youtu.be/vSiLZpvUaGQ). As you can see in the video and in the picture below, the flow goes from being laminar, where there are distinct layers of pink and blue, to turbulent, where the dyes have mixed and become purple. 
 
 ![Picture of the Microfluidic Device During Testing](/assets/img/Flow Picture.png)
 
@@ -29,15 +29,16 @@ In order to incorporate a 3-dimensional feature, I decided to make protruding se
 
 Finally, for the parallelogram barriers, I determined that the optimal angle of the parallelograms was 45 degrees. Next, papers recommended making the height half of the width of the mixing channel, so I made the height of the parallelograms 1 mm. Finally, for the width of the parallelograms, I decided to make them very small with a width of 0.5 mm. I was slightly worried about whether these small features would be able to hold up during the process, but I was able to successfully demold this section without any issues. 
 
-
-![Image of Octopus Flexible Gadget](/assets/img/Octopus.jpg)
-
 **Vat Photopolymerization**
 
 Usually, microfluidic devices are made by photolithography. However, photolithography is very expensive, time-consuming, and is limited in the geometries that it can produce. To address these limitations, 3D printing can be used to make microfluidic molds. Although it isn’t quite as high resolution as photolithography, the Form 3 SLA printer that I utilized had a resolution of 25 microns and can create features with a minimum size of 85 microns. Thus, vat photopolymerization was chosen to produce the mold because it is cheaper and can produce complex and high-resolution geometries. There are a few drawbacks to using this vat photopolymerization technique to make microfluidic devices, including the possibility of warping during curing or uncured resin preventing crosslinking with the PDMS. However, the biggest limitation with this technique is the parylene coating step. Although the parylene makes the mold biocompatible and allows it to be cast with PDMS, the parylene coating machine is very expensive. In addition, the coating does not always work, which can lead to even more time and money wasted. 
 
+![Picture of the Microfluidic Mold that was Printed in the Form 3 SLA Printer](/assets/img/Mold Pic.jpg)
+
 # Instructions
 In order to go from the 3D printed mold to the final device, the microfluidic mold must first be printed in a vat photopolymerization printer. After the print is complete, it must be thoroughly washed. There can’t be any uncured resin remaining on the part, as it will inhibit crosslinking with the PDMS. Then, the part must be cured depending on the resin that was utilized. Since I used high-temp resin, I cured my part for 60 minutes at 60°C. After the mold is printed, washed, and cured, the mold is coated with a thin layer of parylene. Next, the mold is cast with PDMS to create the microfluidic device and channels. After demolding the PDMS device, a glass slide is plasma bonded to the device to create a tight seal that will ensure the fluids remain within the channels.
+
+![Picture of the Final Microfluidid Device](/assets/img/Casted Device Pic.jpg)
 
 # CAD Model of the Microfluidic Mold
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e69c0c8c71e462fa7?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
