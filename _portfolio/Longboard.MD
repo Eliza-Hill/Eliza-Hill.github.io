@@ -8,6 +8,7 @@ gallery:
   - image_path: assets/img/SLS Printed Truck Pic 1.jpg
   - image_path: assets/img/SLS Printed Truck Pic 2.jpg
   - image_path: assets/img/Resin Printed Scale Skateboard.jpg
+  - image_path: assets/img/Final Deflection Pic.jpg
    
 ---
 # Description of Project
