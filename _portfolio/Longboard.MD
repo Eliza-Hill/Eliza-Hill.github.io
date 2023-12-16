@@ -2,11 +2,12 @@
 title: "Electric Longboard"
 excerpt: "Designed a longboard deck and truck using CAD modeling and generative design."
 header:
-  image: assets/img/Standing Pliers.jpg
-  teaser: assets/img/Pliers Flat.jpg
+  image: assets/img/Skateboard Rendering 1.png
+  teaser: assets/img/Skateboard Rendering 2.png
 gallery:
-  - image_path: assets/img/Exploded Pliers.jpg
-  - image_path: assets/img/Iteration.jpg
+  - image_path: assets/img/SLS Printed Truck Pic 1.jpg
+  - image_path: assets/img/SLS Printed Truck Pic 2.jpg
+  - image_path: assets/img/Resin Printed Scale Skateboard.jpg
    
 ---
 # Description of Project
