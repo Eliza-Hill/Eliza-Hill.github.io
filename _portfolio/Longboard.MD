@@ -1,9 +1,9 @@
 ---
 title: "Electric Longboard"
-excerpt: "Designed a longboard deck and truck using CAD modeling and generative design."
+excerpt: "Designed a longboard deck and truck using generative design, SLS printing, and large format 3D printing."
 header:
-  image: assets/img/Skateboard Rendering 1.png
-  teaser: assets/img/Skateboard Rendering 2.png
+  image: assets/img/Skateboard Rendering 2.png
+  teaser: assets/img/Skateboard Rendering 1.png
 gallery:
   - image_path: assets/img/SLS Printed Truck Pic 1.jpg
   - image_path: assets/img/SLS Printed Truck Pic 2.jpg
