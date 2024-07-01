@@ -20,7 +20,7 @@ feature_row:
     excerpt: "Eliza is very interested in aviation and aerospace, and she is currently working on her Private Pilot License! She has about 40 hours of flight time, including solo, cross-country, and simulated instruments."
   - image_path: assets/img/SWE-TOM2.png
     title: "Involved Leader"
-    excerpt: "Eliza is involved in many organizations at Vanderbilt. She is the President of Tikkun Olam Makers (TOM) and the Co-Vice President of the Society of Women Engineers (SWE)."
+    excerpt: "Eliza is involved in many organizations at Vanderbilt. She is the President of Tikkun Olam Makers (TOM) and the President of the Society of Women Engineers (SWE)."
 ---
 
 {% include feature_row %}
