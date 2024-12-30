@@ -3,6 +3,8 @@
 search: false
 ---
 
+$primary-color: #ffe4e1 !default;
+
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
