@@ -210,13 +210,13 @@ defaults:
 
 
 # Sass/SCSS
-sass:
-  sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+# sass:
+#   sass_dir: _sass
+#   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 # Enable Minimal Mistakes custom styles
 sass:
-  custom: "custom.scss"
+  custom: "_sass/custom.scss"
 
 # Other Minimal Mistakes settings (ensure your skin is set)
 minimal_mistakes_skin: default
