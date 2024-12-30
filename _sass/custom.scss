@@ -1,11 +1,17 @@
-// Change the website background color
+// Override background color for the body
 body {
-  background-color: #f9e8e8; // Light pink example
+  background-color: #f9e8e8 !important; // Light pink background
 }
 
-// Optional: Adjust content box background for readability
+// Adjust content area for readability (optional)
 .site {
-  background-color: #ffffff; // White background for the content area
-  padding: 15px; // Optional: Add padding for better aesthetics
+  background-color: #ffffff !important; // White background for main content
+  padding: 20px; // Optional: Add padding
   border-radius: 5px; // Optional: Rounded corners
+}
+
+// Optional: Ensure text is readable on the new background
+body,
+.site {
+  color: #333; // Dark text color for contrast
 }
