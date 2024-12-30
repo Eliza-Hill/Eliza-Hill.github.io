@@ -9,6 +9,8 @@ remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
 
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+primary-color: "#ffe4e1"
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Eliza Hill"
