@@ -208,14 +208,9 @@ defaults:
       author_profile: false
       share: true
 
-
 # Sass/SCSS
 sass:
   custom: "custom.scss"
-
-
-# Other Minimal Mistakes settings (ensure your skin is set)
-minimal_mistakes_skin: default
 
 # Outputting
 permalink: /:categories/:title/
