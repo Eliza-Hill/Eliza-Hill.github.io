@@ -7,9 +7,6 @@
 /* Variables */
 @import "minimal-mistakes/variables";
 
-// Override primary color to light pink
-$primary-color: #ffe4e1 !default;
-
 /* Mixins and functions */
 @import "minimal-mistakes/vendor/breakpoint/breakpoint";
 @include breakpoint-set("to ems", true);
