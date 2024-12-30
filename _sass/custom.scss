@@ -1,0 +1,12 @@
+// Change the primary color to light pink
+$primary-color: #ffe4e1 !default; // Use a hex code for very light pink (misty rose)
+
+// Apply changes to other elements
+a {
+  color: $primary-color;
+}
+
+button,
+input[type="submit"] {
+  background-color: $primary-color;
+}
