@@ -211,8 +211,8 @@ defaults:
 
 # Sass/SCSS
 sass:
-  sass_dir: _sass
-  style: compressed # 
+  custom: "custom.scss"
+
 
 # Other Minimal Mistakes settings (ensure your skin is set)
 minimal_mistakes_skin: default
