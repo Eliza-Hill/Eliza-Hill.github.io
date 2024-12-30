@@ -210,7 +210,7 @@ defaults:
 
 # Sass/SCSS
 sass:
-  custom: "custom.scss"
+  custom: "_sass/custom.scss"
 
 # Outputting
 permalink: /:categories/:title/
