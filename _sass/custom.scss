@@ -1,17 +1,9 @@
-// Override background color for the body
-body {
-  background-color: #f9e8e8 !important; // Light pink background
-}
+// Override the background color variable
+$body-bg: #f9e8e8 !default; // Light pink background
 
-// Adjust content area for readability (optional)
-.site {
-  background-color: #ffffff !important; // White background for main content
-  padding: 20px; // Optional: Add padding
-  border-radius: 5px; // Optional: Rounded corners
-}
+// Ensure other variables align for a cohesive look
+$content-bg: #ffffff !default; // White for content area
+$text-color: #333333 !default; // Dark text for contrast
 
-// Optional: Ensure text is readable on the new background
-body,
-.site {
-  color: #333; // Dark text color for contrast
-}
+// Import the Minimal Mistakes base styles after the overrides
+@import "minimal-mistakes";
