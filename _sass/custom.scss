@@ -1,9 +1,0 @@
-// Override the background color variable
-$body-bg: #f9e8e8 !default; // Light pink background
-
-// Ensure other variables align for a cohesive look
-$content-bg: #ffffff !default; // White for content area
-$text-color: #333333 !default; // Dark text for contrast
-
-// Import the Minimal Mistakes base styles after the overrides
-@import "minimal-mistakes";
