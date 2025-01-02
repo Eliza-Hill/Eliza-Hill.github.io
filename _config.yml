@@ -15,7 +15,7 @@ title                    : "Eliza Hill"
 title_separator          : "-"
 subtitle                 : " "
 name                     : &name "Eliza Hill" # &name is a YAML anchor which can be *referenced later
-description              : &description "Chemical Engineering Student at Vanderbilt "
+description              : &description "Chemical Engineering Student at Vanderbilt"
 url                      : https://eliza-hill.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 
@@ -208,10 +208,12 @@ defaults:
       author_profile: false
       share: true
 
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
   style: compressed # 
+
 
 # Outputting
 permalink: /:categories/:title/
